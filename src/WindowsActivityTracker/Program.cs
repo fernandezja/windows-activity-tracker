@@ -20,6 +20,7 @@ namespace WindowsActivityTracker
 
 
         /// <summary>
+        /// Copia el texto de la barra de título de la ventana especificada (si tiene una) en un búfer
         /// https://learn.microsoft.com/es-es/windows/win32/api/winuser/nf-winuser-getwindowtexta
         /// </summary>
         /// <param name="hwnd">Identificador de la ventana o control que contiene el texto.</param>
